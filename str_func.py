@@ -5,4 +5,4 @@ def str_upper(value):
 
 def upper_first_letter(value):
     """функция, которая делает заглавными первые буквы каждого слова в строке"""
-    return value.title() 
+    return value.title()
